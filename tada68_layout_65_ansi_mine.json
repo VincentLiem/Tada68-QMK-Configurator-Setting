@@ -70,14 +70,14 @@
       "KC_LALT",
       "KC_SPC",
       "KC_GRV",
-      "KC_RGUI",
+      "KC_APP",
       "MO(1)",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT"
     ],
     [
-      "KC_NO",
+      "KC_ESC",
       "KC_F1",
       "KC_F2",
       "KC_F3",
